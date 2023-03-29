@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yaninacarletti
-- 👀 I’m interested in todo lo que es Data
-- 🌱 I’m currently learning  SQL,Integración de datos
-- 💞️ I’m looking to collaborate on  un equipo de desarrollo
-- 📫 How to reach me  por mail: yanina.carletti@gmail.com
+- 👀 I am interested in everything that is data
+- 🌱 I'm currently learning more about python (already with knowledge in the "Cloud" world)
+- 💞️ I seek to be part of a collaborative and creative team.
+- 📫 contact me by mail: yanina.carletti@gmail.com
 
 <!---
 yaninacarletti/yaninacarletti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
